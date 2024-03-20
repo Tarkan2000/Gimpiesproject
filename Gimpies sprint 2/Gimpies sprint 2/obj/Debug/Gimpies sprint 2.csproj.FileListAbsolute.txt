@@ -1,0 +1,37 @@
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.exe.config
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.exe
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.pdb
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.AssemblyReference.cache
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Properties.Resources.resources
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.GenerateResource.cache
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.exe
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.pdb
+C:\Users\SKIKK\source\repos\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.label1.resources
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.exe.config
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.exe
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.pdb
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.AssemblyReference.cache
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.label1.resources
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Properties.Resources.resources
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.GenerateResource.cache
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.CoreCompileInputs.cache
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.exe
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.pdb
+C:\Users\Sirac\Downloads\gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Menu.resources
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.AssemblyReference.cache
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.label1.resources
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Menu.resources
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Properties.Resources.resources
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.GenerateResource.cache
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.exe
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies sprint 2.pdb
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.exe.config
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.exe
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\bin\Debug\Gimpies sprint 2.pdb
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Properties.verkoopmedewerker.resources
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Properties.manager.resources
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Properties.Schoenen.resources
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Properties.Voorraadschoenen.resources
+C:\Users\SKIKK\OneDrive - Rijn IJssel\Gimpies sprint 2\Gimpies sprint 2\Gimpies sprint 2\obj\Debug\Gimpies_sprint_2.Properties.schoenvoorraadadmin.resources
